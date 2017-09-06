@@ -1,0 +1,33 @@
+p {
+  font-style: oblique;
+  color: teal;
+}
+
+h1 {
+  font-weight: bold;
+  text-align: left;
+}
+
+h2 {
+  font-family: fantasy;
+  text-align: left;
+  font-size: 50px;
+}
+
+p.intro {
+font-size: 20px;
+font-weight: bold;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+body {
+  background-color: #F9A7F6;
+}
+
+.author {
+  color: black;
+}
